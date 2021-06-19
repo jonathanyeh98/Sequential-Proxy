@@ -1,0 +1,1 @@
+For my project 2, it simply takes in a http request from the web browser and forwards it to the server it is meant for, then it will wait for a while for the server to respond before logging the response size and time. Servers take a long time to respond.
